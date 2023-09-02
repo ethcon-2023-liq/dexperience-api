@@ -20,9 +20,16 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@biconomy/account": "^3.0.0",
+    "@biconomy/bundler": "^3.0.0",
+    "@biconomy/common": "^3.0.0",
+    "@biconomy/core-types": "^3.0.0",
+    "@biconomy/paymaster": "^3.0.0",
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@types/axios": "^0.14.0",
+    "axios": "^1.5.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
     "web3": "^4.1.1"
