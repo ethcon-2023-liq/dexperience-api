@@ -26,6 +26,7 @@
     "@biconomy/core-types": "^3.0.0",
     "@biconomy/paymaster": "^3.0.0",
     "@nestjs/common": "^9.0.0",
+    "@nestjs/config": "^3.0.1",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "@types/axios": "^0.14.0",
